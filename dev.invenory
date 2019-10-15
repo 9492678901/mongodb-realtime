@@ -1,5 +1,1 @@
-<<<<<<< HEAD
- Tomcat-elb2 ansible_host=172.31.11.231 ansible_user=ec2-user
-=======
-mongodb ansible_host=172.31.39.231 ansible_user=ec2-user
->>>>>>> 99647bee55bb4666b655fdce769d845445780ea1
+Tomcat-elb2 ansible_host=172.31.11.231 ansible_user=ec2-user
