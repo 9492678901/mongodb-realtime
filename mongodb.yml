@@ -1,5 +1,5 @@
 ---
-- hosts: mongodb
+- hosts: Tomcat-elb2 
   become: True
   tasks:
     - name: Install docker daemon
